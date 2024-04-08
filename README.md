@@ -1,3 +1,5 @@
+# NAME: DEEPIKA.R
+# REG NO.:212223230038
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
